@@ -32,4 +32,4 @@ This project is an Excel-based Personal Expense Dashboard developed to analyze i
 - Analyzed income sources.
 
 ## Dashboard Preview
-![Dashboard](Dashboard_Screenshot.png)
+![Dashboard](Dashboard_screenshot.png)
